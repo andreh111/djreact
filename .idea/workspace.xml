@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2752a3e3-75be-4c37-952a-c428e393a0dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/articles/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/articles/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/articles/api/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/articles/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AntikaSenior/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AntikaSenior/app/src/main/java/comh/example/lenovo/antikasenior/AccountFragment.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AntikaSenior/app/src/main/java/comh/example/lenovo/antikasenior/CartFragment.java" beforeDir="false" />
@@ -369,6 +364,14 @@
       <change beforePath="$PROJECT_DIR$/../assets/user@2x.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../assets/user@3x.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/articles/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/articles/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/articles/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/articles/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/djreact/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/djreact/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/containers/ArticleDetailView.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/containers/ArticleDetailView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/containers/ArticleListView.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/containers/ArticleListView.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ios/GoogleService-Info.plist" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ios/Podfile" beforeDir="false" />
@@ -979,7 +982,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TyfshVIcH5BQpQDDSRHaOBv9w4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -1047,7 +1050,7 @@
       <workItem from="1574437468720" duration="281000" />
       <workItem from="1574437774057" duration="143000" />
       <workItem from="1574437921977" duration="1000000" />
-      <workItem from="1574530593641" duration="6042000" />
+      <workItem from="1574530593641" duration="12212000" />
     </task>
     <servers />
   </component>
